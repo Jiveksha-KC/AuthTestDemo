@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: authTestDemo
+netty:
+  default:
+    allocator:
+      max-order: 3
